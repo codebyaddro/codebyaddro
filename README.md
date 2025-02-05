@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Addro</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning JavaScript and Python **Tailwind / Django / Laravel**
+- 🌱 I’m currently learning JavaScript and Python Django
 
-- 👨‍💻 All of my projects are available at my github account [https://www.codebyaddro.com](https://www.codebyaddro.com)
+- 👨‍💻 All of my projects are available at my github account (https://www.codebyaddro.com)
 
-- 💬 Ask me about why I did do the way you thought **React**
+- 💬 Ask me about why I did do the way you thought
 
-- 📫 How to reach me mail me on "codebbyaddro@gmail.com" **codebyaddro@gmail.com**
+- 📫 How to reach me mail me on **codebyaddro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
