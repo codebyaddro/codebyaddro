@@ -20,4 +20,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=codebyaddro&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
-![Profile View](https://visitcount.itsvg.in/api?id=codebyaddro&icon=2&color=1)
+![Visitors](https://visitcount.itsvg.in/api?id=codebyaddro&label=Profile%20Views&icon=2&color=1)
