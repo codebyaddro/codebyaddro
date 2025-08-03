@@ -14,6 +14,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codebyaddro/codebyaddro/output/pacman-contribution-graph.svg">
 </picture>
 
+<img src="https://raw.githubusercontent.com/codebyaddro/codebyaddro/output/snake.svg" alt="Snake animation" />
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=codebyaddro&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=codebyaddro&theme=blue_navy&hide_border=false)<br/>
