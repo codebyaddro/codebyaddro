@@ -13,9 +13,9 @@
 </p>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codebyaddro&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=codebyaddro&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyaddro&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=codebyaddro&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=codebyaddro&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=codebyaddro&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
@@ -25,5 +25,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codebyaddro&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
