@@ -1,7 +1,6 @@
 ## 💫 About Me:
 ### 👋 Hi there, I'm `Adnan Hossain Addro`<br><br>I'm a passionate `Front-End Developer` based in Bangladesh, currently pursuing a Diploma in Computer Science & Technology. I'm skilled in HTML, CSS, JavaScript, React, and WordPress, and I love building clean, responsive, and user-friendly web interfaces.<br><br>💻 **What I Do**<br>- Front-End Web Development with modern tools and frameworks<br>- WordPress site building with Elementor<br>- Responsive design using Tailwind CSS and Flexbox<br>- Integrating REST APIs into front-end apps<br>- Collaborating on projects and continuously learning<br><br>🚀 **Currently Learning**<br>- MERN Stack (MongoDB, Express.js, React, Node.js)<br>- Advanced JavaScript and backend fundamentals<br>- Building Chrome extensions and productivity tools<br><br>🎯 **Goals**<br>- Become a Software Engineer at Google 🌍<br>- Contribute to open source projects<br>- Help others learn web development<br><br>📫 **Let’s Connect**<br>- Portfolio: [`codebyaddro.com`](https://codebyaddro.com)<br>- Email: [`mdadnanaddro@gmail.com`](mailto:mdadnanaddro@gmail.com)<br><br> "Code is like humor. When you have to explain it, it’s bad." – Cory House<br><br>Thanks for visiting my GitHub! ⭐<br>
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adnanhossainaddro) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codebyaddro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-hossain-addro) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mdadnanaddro) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Md-Adnan-Addro) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/addro23) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Md-Adnan-Addro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codebyaddro@gmail.com) 
 
@@ -15,9 +14,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=codebyaddro&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=codebyaddro&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
-
----
-![Visitor Count](https://profile-counter.glitch.me/{codebyaddro}/count.svg)
