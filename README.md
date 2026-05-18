@@ -1,5 +1,69 @@
 # 💫 About Me:
-### 👋 Hi there, I'm `Adnan Hossain Addro`<br><br>I'm a passionate `Front-End Developer` based in Bangladesh, currently pursuing a Diploma in Computer Science & Technology. I'm skilled in HTML, CSS, JavaScript, React, and WordPress, and I love building clean, responsive, and user-friendly web interfaces.<br><br>💻 **What I Do**<br>- Front-End Web Development with modern tools and frameworks<br>- WordPress site building with Elementor<br>- Responsive design using Tailwind CSS and Flexbox<br>- Integrating REST APIs into front-end apps<br>- Collaborating on projects and continuously learning<br><br>🚀 **Currently Learning**<br>- MERN Stack (MongoDB, Express.js, React, Node.js)<br>- Advanced JavaScript and backend fundamentals<br>- Building Chrome extensions and productivity tools<br><br>🎯 **Goals**<br>- Become a Software Engineer at Google 🌍<br>- Contribute to open source projects<br>- Help others learn web development<br><br>📫 **Let’s Connect**<br>- Portfolio: [`codebyaddro.com`](https://codebyaddro.com)<br>- Email: [`mdadnanaddro@gmail.com`](mailto:mdadnanaddro@gmail.com)<br><br> "Code is like humor. When you have to explain it, it’s bad." – Cory House<br><br>Thanks for visiting my GitHub! ⭐<br>
+
+### 👋 Hey, I'm `Adnan Hossain Addro`
+
+I'm a passionate `MERN Stack Developer` and `UI/UX Designer` from Bangladesh, currently pursuing a Diploma in Computer Science & Technology. I specialize in building modern, responsive, and user-focused web applications using the MERN stack and modern front-end technologies.
+
+With a strong foundation in front-end development and growing expertise in backend technologies, I enjoy turning ideas into real-world digital experiences that are clean, functional, and scalable.
+
+---
+
+## 💻 What I Do
+
+* Full Stack Web Development with the MERN Stack
+* Front-End Development using React & Tailwind CSS
+* Backend Development with Node.js & Express.js
+* REST API Integration & Dynamic Web Applications
+* UI/UX Design for modern and user-friendly interfaces
+* WordPress Website Design with Elementor
+* Building responsive and performance-focused websites
+
+---
+
+## 🚀 Currently Exploring
+
+* Advanced MERN Stack Concepts
+* MongoDB Database Design & Optimization
+* Docker & Deployment Workflows
+* Chrome Extension Development
+* Scalable Backend Architecture
+* Open Source Contribution
+
+---
+
+## 🎯 My Goals
+
+* Become a Software Engineer at Google 🌍
+* Build impactful SaaS products and developer tools
+* Contribute to the developer community
+* Help students and beginners learn programming easily
+* Continuously improve my problem-solving and software engineering skills
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML5, CSS3, JavaScript (ES6+)
+* React.js, Tailwind CSS
+* Node.js, Express.js
+* MongoDB
+* WordPress & Elementor
+* Git & GitHub
+* REST APIs
+
+---
+
+## 📫 Connect With Me
+
+* 🌐 Portfolio: `codebyaddro.com`
+* 📧 Email: `mdadnanaddro@gmail.com`
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+⭐ Thanks for visiting my profile!
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adnanhossainaddro) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codebyaddro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-hossain-addro) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mdadnanaddro) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/addro23) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Md-Adnan-Addro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codebyaddro@gmail.com) 
