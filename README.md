@@ -60,11 +60,6 @@ With a strong foundation in front-end development and growing expertise in backe
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
-⭐ Thanks for visiting my profile!
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adnanhossainaddro) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codebyaddro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-hossain-addro) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mdadnanaddro) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/addro23) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Md-Adnan-Addro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codebyaddro@gmail.com) 
 
