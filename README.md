@@ -1,6 +1,4 @@
-# 💫 About Me:
-
-### 👋 Hey, I'm `Adnan Hossain Addro`
+# 👋 Hey, I'm `Adnan Hossain Addro`
 
 I'm a passionate `MERN Stack Developer` and `UI/UX Designer` from Bangladesh, currently pursuing a Diploma in Computer Science & Technology. I specialize in building modern, responsive, and user-focused web applications using the MERN stack and modern front-end technologies.
 
