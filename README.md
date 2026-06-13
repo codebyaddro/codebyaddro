@@ -125,7 +125,9 @@ Career Goal:
 ### Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img width="47" style="border-radius:10px; margin-left:5px;" 
+       src="https://images.seeklogo.com/logo-png/45/1/expo-go-app-logo-png_seeklogo-457073.png" />
 </p>
 
 ### Database & Backend Services
