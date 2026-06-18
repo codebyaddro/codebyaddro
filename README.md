@@ -119,7 +119,7 @@ Career Goal:
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,redis" />
 </p>
 
 ### Mobile Development
@@ -138,7 +138,7 @@ Career Goal:
 ### DevOps & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify,heroku,nginx" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify,heroku,nginx,aws" />
 </p>
 
 ### CMS
