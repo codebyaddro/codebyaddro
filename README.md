@@ -107,7 +107,7 @@ Career Goal:
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,php" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,go" />
 </p>
 
 ### Frontend Development
