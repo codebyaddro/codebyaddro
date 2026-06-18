@@ -113,7 +113,7 @@ Career Goal:
 ### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,materialui,threejs,styledcomponents" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,threejs,styledcomponents" />
 </p>
 
 ### Backend Development
