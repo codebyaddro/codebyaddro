@@ -126,8 +126,7 @@ Career Goal:
 
 <p>
   <img src="https://skillicons.dev/icons?i=react" />
-  <img width="47" style="border-radius:10px; margin-left:5px;" 
-       src="https://images.seeklogo.com/logo-png/45/1/expo-go-app-logo-png_seeklogo-457073.png" />
+  <img src="https://i.ibb.co.com/67vMb0qh/Group-2.jpg" />
 </p>
 
 ### Database & Backend Services
