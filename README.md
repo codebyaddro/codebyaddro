@@ -107,13 +107,13 @@ Career Goal:
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,go" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,go,cpp" />
 </p>
 
 ### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,threejs,styledcomponents" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,threejs,styledcomponents&perline=9" />
 </p>
 
 ### Backend Development
@@ -150,7 +150,7 @@ Career Goal:
 ### Tools & Productivity
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,npm,notion,vscode,vite,webpack,regex,bash" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,npm,notion,vscode,vite,webpack,regex,bash&perline=9" />
 </p>
 
 ### Testing
