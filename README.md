@@ -113,13 +113,13 @@ Career Goal:
 ### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,threejs,styledcomponents&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,threejs,styledcomponents,emotion,astro,remix&perline=9" />
 </p>
 
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,redis,django,fastapi,flask" />
 </p>
 
 ### Mobile Development
@@ -132,19 +132,19 @@ Career Goal:
 ### Database & Backend Services
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,appwrite,redis,mysql,postgres,supabase,prisma" />
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,appwrite,redis,mysql,postgres,supabase,prisma,graphql" />
 </p>
 
 ### DevOps & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify,heroku,nginx,aws" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify,heroku,nginx,aws,gcp" />
 </p>
 
 ### CMS
 
 <p>
-<img src="https://skillicons.dev/icons?i=wordpress" />
+<img src="https://skillicons.dev/icons?i=wordpress,webflow" />
 </p>
 
 ### Tools & Productivity
