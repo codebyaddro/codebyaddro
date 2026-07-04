@@ -113,7 +113,7 @@ Career Goal:
 ### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,threejs,styledcomponents&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,threejs,styledcomponents&perline=7" />
 </p>
 
 ### Backend Development
@@ -150,7 +150,7 @@ Career Goal:
 ### Tools & Productivity
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,npm,notion,vscode,vite,webpack,regex,bash&perline=9" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,npm,notion,vscode,vite,webpack,regex,bash&perline=7" />
 </p>
 
 ### Testing
