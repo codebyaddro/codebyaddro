@@ -77,31 +77,6 @@ Career Goal:
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebyaddro&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyaddro&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyaddro&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 💻 Tech Stack
 
 ### Programming Languages
