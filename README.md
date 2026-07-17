@@ -31,52 +31,6 @@ Career Goal:
 
 ---
 
-## 🧠 Engineering Philosophy
-
-> "Don't just make it work.  
-> Make it scalable.  
-> Make it maintainable.  
-> Make it elegant."
-
----
-
-## 🏗️ What I'm Learning
-
-```text
-✔ Frontend Development
-✔ Backend Development
-✔ REST API Design
-✔ Authentication & Security
-✔ System Design
-✔ Deployment
-✔ AI Integrations
-✔ Distributed Systems
-✔ Cloud Architecture
-```
-
----
-
-## 🧩 Current Interests
-- System Design
-- Backend Architecture
-- Authentication Systems
-- Token Rotation
-- AI Agents
-- LLM Integrations
-- SaaS Products
-- Developer Tools
-
----
-
-## 🎯 2026 Goals
-- Build production grade SaaS applications
-- Master System Design
-- Contribute to Open Source
-- Deep dive into AI Engineering
-- Build tools used by thousands of people
-
----
-
 ## 💻 Tech Stack
 
 ### Programming Languages
@@ -133,26 +87,3 @@ Career Goal:
 <p>
 <img src="https://skillicons.dev/icons?i=jest" />
 </p>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/codebyaddro)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/adnan-hossain-addro)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/addro23)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/adnanh.addro)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ "Build. Break. Learn. Scale. Repeat."
-
-<img src="https://komarev.com/ghpvc/?username=codebyaddro&style=for-the-badge" />
-
-</div>
