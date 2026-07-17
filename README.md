@@ -107,7 +107,7 @@ Career Goal:
 ### Database & Backend Services
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,appwrite,redis,mysql,postgres,supabase" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,firebase,appwrite" />
 </p>
 
 ### DevOps & Deployment
