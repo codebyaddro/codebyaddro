@@ -94,7 +94,7 @@ Career Goal:
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
 </p>
 
 ### Mobile Development
