@@ -125,7 +125,7 @@ Career Goal:
 ### Tools & Productivity
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,npm,notion,vscode,vite,webpack,regex,bash&perline=7" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,npm,notion,vscode,vite,bash&perline=7" />
 </p>
 
 ### Testing
