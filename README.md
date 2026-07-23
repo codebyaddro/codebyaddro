@@ -2,8 +2,6 @@
 
 # Hi 👋 I'm Adnan Hossain Addro
 
-### Software Developer | Problem Solver | Building Digital Experiences
-
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=4F8CFF&center=true&vCenter=true&width=900&lines=Software+Developer;Frontend+%2B+Backend+Engineer;System+Design+Enthusiast;AI+%26+LLM+Integration+Explorer;Always+Learning+Something+New" />
 
 </div>
