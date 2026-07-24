@@ -53,12 +53,6 @@ career_goal:
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
 </p>
 
-### Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://i.ibb.co.com/67vMb0qh/Group-2.jpg" />
-</p>
-
 ### Database & Backend Services
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,firebase,appwrite" />
