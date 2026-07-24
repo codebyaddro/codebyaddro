@@ -1,30 +1,39 @@
-<div align="center">
-
-# Hi 👋 I'm Adnan Hossain Addro
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=4F8CFF&center=true&vCenter=true&width=900&lines=Software+Developer;Frontend+%2B+Backend+Engineer;System+Design+Enthusiast;AI+%26+LLM+Integration+Explorer;Always+Learning+Something+New" />
-
-</div>
-
----
-
-## 🚀 About Me
-
 ```yaml
-Name: Adnan Hossain Addro
-Role: Software Developer
-Education: Diploma in Computer Science & Technology
-Location: Bangladesh 🇧🇩
+name: Adnan Hossain Addro
+role: Software Developer
 
-Current Focus:
-  - Scalable Backend Development
+location: Bangladesh 🇧🇩
+education: Diploma in Computer Science & Technology
+
+about:
+  passionate_about:
+    - Building Scalable Software
+    - Clean Architecture
+    - High-Performance Backend Systems
+    - Modern Web Development
+    - AI-Powered Applications
+
+specialization:
+  - Frontend Development
+  - Backend Development
+  - REST API Development
+  - Database Design
   - System Design
-  - API Architecture
   - AI & LLM Integration
-  - Modern Web Applications
 
-Career Goal:
-  - Become a World-Class Software Engineer
+currently_learning:
+  - Distributed Systems
+  - Microservices Architecture
+  - Cloud Infrastructure
+  - DevOps & CI/CD
+  - Performance Optimization
+
+career_goal:
+  Become a world-class software engineer by building scalable,
+  impactful products and continuously mastering modern software
+  engineering, system design, and artificial intelligence.
+
+motto: "Code. Learn. Build. Repeat."
 ```
 
 ---
