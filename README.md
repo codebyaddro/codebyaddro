@@ -38,11 +38,6 @@ career_goal:
 
 ## 💻 Tech Stack
 
-### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python" />
-</p>
-
 ### Frontend Development
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,threejs,styledcomponents" />
