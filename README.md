@@ -45,7 +45,7 @@ career_goal:
 
 ### Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nest,django,fastapi,go,cpp" />
 </p>
 
 ### Database & Backend Services
