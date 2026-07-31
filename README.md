@@ -2,9 +2,6 @@
 name: Adnan Hossain Addro
 role: Software Developer
 
-location: Bangladesh 🇧🇩
-education: Diploma in Computer Science
-
 about:
   passionate_about:
     - Building Scalable Software
