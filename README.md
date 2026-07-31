@@ -10,25 +10,20 @@ about:
     - Modern Web Development
     - AI-Powered Applications
 
-specialization:
-  - Frontend Development
-  - Backend Development
-  - REST API Development
-  - Database Design
-  - System Design
-  - AI & LLM Integration
+  specialization:
+    - Frontend Development
+    - Backend Development
+    - REST API Development
+    - Database Design
+    - System Design
+    - AI & LLM Integration
 
-currently_learning:
-  - Distributed Systems
-  - Microservices Architecture
-  - Cloud Infrastructure
-  - DevOps & CI/CD
-  - Performance Optimization
-
-career_goal:
-  Become a world-class software engineer by building scalable,
-  impactful products and continuously mastering modern software
-  engineering, system design, and artificial intelligence.
+  currently_learning:
+    - Distributed Systems
+    - Microservices Architecture
+    - Cloud Infrastructure
+    - DevOps & CI/CD
+    - Performance Optimization
 ```
 
 ---
