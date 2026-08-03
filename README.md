@@ -32,12 +32,12 @@ about:
 
 ### Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,threejs,styledcomponents" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,styledcomponents" />
 </p>
 
 ### Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nest,django,fastapi,go,cpp" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database & Backend Services
@@ -47,5 +47,5 @@ about:
 
 ### DevOps & Deployment
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify,heroku,nginx,aws" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws" />
 </p>
