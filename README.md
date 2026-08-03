@@ -32,7 +32,7 @@ about:
 
 ### Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,styledcomponents" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux" />
 </p>
 
 ### Backend Development
