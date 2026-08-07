@@ -42,7 +42,7 @@ about:
 
 ### Database & Backend Services
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,firebase,appwrite" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase,firebase,appwrite" />
 </p>
 
 ### DevOps & Deployment
