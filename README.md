@@ -1,4 +1,6 @@
+<img src = "/images/adnan_addro_github.png"/>
 
+<br>
 
 <h2 align="center"> <img src="/images/title1.png" width="25"/> <em>About me</em></h2>
 
