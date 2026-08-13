@@ -49,3 +49,7 @@ about:
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws" />
 </p>
+
+---
+
+<img alt="An animation of pacman eating the github user contributions (like pacman game)" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/public/assets/pacman.svg">
