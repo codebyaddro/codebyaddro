@@ -1,32 +1,4 @@
-```yaml
-name: Adnan Hossain Addro
-role: Software Developer
 
-about:
-  passionate_about:
-    - Building Scalable Software
-    - Clean Architecture
-    - High-Performance Backend Systems
-    - Modern Web Development
-    - AI-Powered Applications
-
-  specialization:
-    - Frontend Development
-    - Backend Development
-    - REST API Development
-    - Database Design
-    - System Design
-    - AI & LLM Integration
-
-  currently_learning:
-    - Distributed Systems
-    - Microservices Architecture
-    - Cloud Infrastructure
-    - DevOps & CI/CD
-    - Performance Optimization
-```
-
----
 
 <h2 align="center"> <img src="/images/title1.png" width="25"/> <em>About me</em></h2>
 
@@ -44,7 +16,6 @@ about:
   <img src="/images/img3.png" width="15"/> <em><b>System design, databases & AI integration</b></em><br/>
   <img src="/images/img4.png" width="15"/> <em><b>Learning distributed systems, microservices & DevOps</b></em><br/>
 </p>
-
 
 <br/>
 
