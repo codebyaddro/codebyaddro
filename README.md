@@ -8,7 +8,7 @@
 
 <br/>
 
-<p> Hello there! <em><b>I'm Adnan Hossain Addro</b></em>, a Software Developer passionate about building scalable software and modern web applications. I enjoy designing clean architectures, developing high-performance backend systems, and exploring AI-powered applications. I’m constantly learning new technologies and applying them through real-world products and SaaS projects. </p>
+<p> Hello there! <em><b>I'm Adnan Hossain Addro</b></em>, a Software Engineer passionate about building scalable software and modern web applications. I enjoy designing clean architectures, developing high-performance backend systems, and exploring AI-powered applications. I’m constantly learning new technologies and applying them through real-world products and SaaS projects.</p>
 
 <br/>
 
